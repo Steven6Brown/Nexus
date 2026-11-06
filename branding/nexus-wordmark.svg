@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200">
+<rect width="640" height="200" rx="16" fill="#0B0E13"/>
+<g fill="none" stroke="#C08A2E" stroke-width="2"><circle cx="100" cy="100" r="52"/><ellipse cx="100" cy="100" rx="52" ry="18"/><ellipse cx="100" cy="100" rx="18" ry="52"/><ellipse cx="100" cy="100" rx="52" ry="52" transform="rotate(35 100 100)" opacity=".5"/></g>
+<circle cx="100" cy="100" r="6" fill="#E0AC4C"/>
+<text x="180" y="108" font-family="Space Grotesk, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="6" fill="#FFFFFF">NEXUS</text>
+<text x="182" y="144" font-family="JetBrains Mono, Menlo, monospace" font-size="15" letter-spacing="4" fill="#E0AC4C">COMMAND CENTER</text></svg>
